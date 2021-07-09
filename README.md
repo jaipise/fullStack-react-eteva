@@ -1,1 +1,1 @@
-# Checlist Application - developed by Jai Pise
+# Checklist Application - developed by Jai Pise
